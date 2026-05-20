@@ -1,0 +1,91 @@
+{
+    "dados":[
+        {
+            "id": 1,
+            "poster": [
+                "https://i.pinimg.com/1200x/35/83/11/3583110eabb1a12131b1acbe047aef42.jpg", 
+                "https://i.pinimg.com/1200x/13/1b/b9/131bb9ccd80c19d5c7bb899cb7fc17c8.jpg", 
+                "https://i.pinimg.com/1200x/1a/40/cc/1a40cc6cbe10ac3133af26b7d6ba871f.jpg"],
+            "titulo": "Apenas um show",
+            "descricao": " A série gira em torno da vida de dois amigos, um gaio-azul chamado Mordecai e um guaxinim chamado Rigby, que trabalham em um parque. Eles geralmente tentam resolver um problema simples que os leva a uma desventura surreal, extrema e muitas vezes sobrenatural.",
+            "musica": "https://www.youtube.com/watch?v=l3ST8AjLAms&list=RDl3ST8AjLAms&start_radio=1"
+        },
+        {
+            "id": 2,
+            "poster": [
+                "https://i.pinimg.com/webp85/736x/d0/a3/bc/d0a3bce45ae2baf62bc57dac886732bf.webp",
+                "https://i.pinimg.com/736x/d2/d4/65/d2d46517db53f88e85cc44cef7e44a49.jpg",
+                "https://i.pinimg.com/1200x/4a/d6/73/4ad673675b73ec274a3b41e81281b6ad.jpg"
+            ],
+            "titulo": "Hora de Aventura",
+            "descricao": "Finn e Jake habitam a pós-apocalíptica Terra de Ooo, onde interagem com os outros personagens principais da série: Princesa Jujuba, o Rei Gelado e Marceline, a Rainha dos Vampiros.",
+            "musica": "https://www.youtube.com/watch?v=mQGD45G8fII&list=RDmQGD45G8fII&start_radio=1"
+        },
+        {
+            "id": 3,
+            "poster": [
+                "https://i.pinimg.com/webp85/1200x/fa/ac/3b/faac3b9d03616c0d1bd834192faaa744.webp",
+                "https://i.pinimg.com/736x/5d/bb/70/5dbb70b3d571b735b003a549ee6c59fd.jpg",
+                "https://i.pinimg.com/736x/89/b0/06/89b006aee2a8ebb65dbe091fa870ea63.jpg"
+            ],
+            "titulo": "Steven Universo",
+            "descricao": "Steven, que é metade Gem e metade humano, participa de diversas aventuras com seus amigos e ajuda as Crystal Gems a protegerem o mundo dos próprios seres humanos e de Gems corrompidas.",
+            "musica": "https://www.youtube.com/watch?v=ECt6xk3eEbU"
+        },
+        {
+            "id": 4,
+            "poster": [
+                "https://i.pinimg.com/1200x/87/aa/09/87aa0942100ff682678960415000899f.jpg",
+                "https://i.pinimg.com/webp85/1200x/06/0c/ec/060cec60e4cad3287bd585ab95d26c7b.webp",
+                "https://i.pinimg.com/webp85/736x/3b/78/a9/3b78a9ebb6f1c9632885342fde16a19e.webp"
+            ],
+            "titulo": "Coragem, o Cão Covarde",
+            "descricao": "Coragem, Eustácio e Muriel frequentemente encontram monstros, alienígenas, demônios, cientistas loucos, zumbis e outros perigos que Coragem deve afastar para salvar seus donos, sem o conhecimento deles.",
+            "musica": ""
+        },
+        {
+            "id": 5,
+            "poster": [
+                "https://i.pinimg.com/webp85/1200x/27/4a/a1/274aa1faa4ba2d2a82c9b8b128aa9cd2.webp",
+                "https://i.pinimg.com/1200x/0a/ae/c1/0aaec1411ec580c39cf3b55df33e9fda.jpg",
+                "https://i.pinimg.com/736x/be/70/47/be704795226faef6268ed8e8be69cbf4.jpg"
+            ],
+            "titulo": "As Meninas Super Poderosas",
+            "descricao": "Conta a história de três garotas com super poderes: Florzinha, Lindinha e Docinho. Elas foram criadas pelo Professor Utônio, que acidentalmente deixou derrubar o Elemento X na poção da Garotinha Perfeita (uma mistura de açúcar, tempero e tudo o que há de bom).",
+            "musica": ""
+        },
+        {
+            "id": 6,
+            "poster": [
+                "https://i.pinimg.com/1200x/af/63/39/af63394db734d70144b04fd5e863e0cf.jpg",
+                "https://i.pinimg.com/webp85/1200x/04/bc/6b/04bc6bd389d640822f74266f4656c840.webp",
+                "https://i.pinimg.com/736x/b8/b6/ff/b8b6ffebf83a74dd424a9bc028de5d8e.jpg"
+            ],
+            "titulo": "As Trapalhadas de Flapjack",
+            "descricao": "A série conta a história de Flapjack, um menino ingênuo que foi criado por uma baleia chamada Bolha e é orientado por um velho e experiente pirata chamado de Capitão Falange. O trio passa seus dias em Porto Tempestade, local onde a maior parte da série acontece, enquanto eles buscam maneiras de encontrar a Ilha Açúcar.",
+            "musica": ""
+        },
+        {
+            "id": 7,
+            "poster": [
+                "https://i.pinimg.com/webp85/1200x/ba/15/dd/ba15dd6a984588213188d6dac5d623f9.webp",
+                "https://i.pinimg.com/736x/c5/02/41/c502418eba476abd20c97018f4a74813.jpg",
+                "https://i.pinimg.com/736x/c5/eb/2f/c5eb2f464c1766382d566a3dd65d3fb1.jpg"
+            ],
+            "titulo": "Ben 10",
+            "descricao": "Aos 10 anos de idade, Benjamin Kirby Tenyson descobre um dispositivo alienígena na floresta chamado de Omnitrix, que lhe permite se transformar em 10 diferentes espécies alienígenas.",
+            "musica": ""
+        },
+        {
+            "id": 8,
+            "poster": [
+                "https://i.pinimg.com/736x/ec/1f/24/ec1f2462c76c684a1e58043f827c29ad.jpg",
+                "https://i.pinimg.com/1200x/0c/bc/ad/0cbcaddd6f7fe79849ecf732c8c146f3.jpg",
+                "https://i.pinimg.com/webp85/1200x/c5/11/79/c5117986b80fb6f66a823e1de36a0c0c.webp"
+            ],
+            "titulo": "Os Jovens Titãs",
+            "descricao": "Como o nome do grupo indica, os membros são super-heróis adolescentes, muitos dos quais atuaram como parceiros dos principais super-heróis da DC na Liga da Justiça . A equipe original mais tarde passa a ser conhecida como Titãs quando os membros deixam a adolescência, enquanto o nome Jovens Titãs é continuado pelas gerações subsequentes de jovens heróis.",
+            "musica": ""
+        }
+    ]
+}
