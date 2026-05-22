@@ -8,7 +8,29 @@
                 "https://i.pinimg.com/1200x/1a/40/cc/1a40cc6cbe10ac3133af26b7d6ba871f.jpg"],
             "titulo": "Apenas um show",
             "descricao": " A série gira em torno da vida de dois amigos, um gaio-azul chamado Mordecai e um guaxinim chamado Rigby, que trabalham em um parque. Eles geralmente tentam resolver um problema simples que os leva a uma desventura surreal, extrema e muitas vezes sobrenatural.",
-            "musica": "https://www.youtube.com/watch?v=l3ST8AjLAms&list=RDl3ST8AjLAms&start_radio=1"
+            "musica": "https://www.youtube.com/watch?v=l3ST8AjLAms&list=RDl3ST8AjLAms&start_radio=1",
+            "personagens": [
+                {
+                    "id": 1100,
+                    "nome": "Mordecai",
+                    "foto": "https://i.pinimg.com/1200x/ed/1d/1a/ed1d1ae9c7736f93d796abd546c4f0f9.jpg"
+                },
+                {
+                    "id": 2200,
+                    "nome": "Rigby",
+                    "foto": "https://i.pinimg.com/736x/46/00/37/460037405d382d82644d1936654ef84f.jpg"
+                },
+                {
+                    "id": 3300,
+                    "nome": "Benson",
+                    "foto": "https://i.pinimg.com/1200x/93/fb/49/93fb4979bb09b655b5dd4c17c6b6fd16.jpg"
+                },
+                {
+                    "id": 4400,
+                    "nome": "Saltitão",
+                    "foto": "https://i.pinimg.com/736x/ec/5f/a2/ec5fa26f43ea58a91918a128deee7a4e.jpg"
+                }
+            ]
         },
         {
             "id": 2,
@@ -19,7 +41,29 @@
             ],
             "titulo": "Hora de Aventura",
             "descricao": "Finn e Jake habitam a pós-apocalíptica Terra de Ooo, onde interagem com os outros personagens principais da série: Princesa Jujuba, o Rei Gelado e Marceline, a Rainha dos Vampiros.",
-            "musica": "https://www.youtube.com/watch?v=mQGD45G8fII&list=RDmQGD45G8fII&start_radio=1"
+            "musica": "https://www.youtube.com/watch?v=mQGD45G8fII&list=RDmQGD45G8fII&start_radio=1",
+            "personagens": [
+                {
+                    "id": 5500,
+                    "nome": "Finn",
+                    "foto": "https://i.pinimg.com/webp85/1200x/fb/2e/a6/fb2ea60fb4ae86cf2b1d6ce793cb2b85.webp"
+                },
+                {
+                    "id": 6600,
+                    "name": "Jake",
+                    "foto": "https://i.pinimg.com/736x/fb/76/c8/fb76c84a099976b5360183ed591356da.jpg"
+                },
+                {
+                    "id": 7700,
+                    "nome": "BMO",
+                    "foto": "https://i.pinimg.com/736x/cd/bd/3e/cdbd3e85d5a875fdd3f5cd766a40c0f4.jpg"
+                },
+                {
+                    "id": 8800,
+                    "nome": "Marceline e Jujuba",
+                    "foto": "https://i.pinimg.com/webp85/736x/62/8d/d0/628dd058ab677cef9412d1a82ff2e805.webp"
+                }
+            ]
         },
         {
             "id": 3,
@@ -30,7 +74,29 @@
             ],
             "titulo": "Steven Universo",
             "descricao": "Steven, que é metade Gem e metade humano, participa de diversas aventuras com seus amigos e ajuda as Crystal Gems a protegerem o mundo dos próprios seres humanos e de Gems corrompidas.",
-            "musica": "https://www.youtube.com/watch?v=ECt6xk3eEbU"
+            "musica": "https://www.youtube.com/watch?v=ECt6xk3eEbU",
+            "personagens": [
+                {
+                    "id": 9900,
+                    "nome": "Steven",
+                    "foto": "https://i.pinimg.com/1200x/d5/fe/86/d5fe8615d1d15abc2f085cad52065335.jpg"
+                },
+                {
+                    "id": 1110,
+                    "nome": "Perola",
+                    "foto": "https://i.pinimg.com/webp85/1200x/1b/23/e4/1b23e4ed475008509a7ff40bd67c8e62.webp"
+                },
+                {
+                    "id": 2220,
+                    "nome": "Garnet",
+                    "foto": "https://i.pinimg.com/webp85/736x/45/9a/fe/459afec214578267c1031ca184b18c4d.webp"
+                },
+                {
+                    "id": 3330,
+                    "nome": "Ametista",
+                    "foto": "https://i.pinimg.com/736x/fb/3e/19/fb3e19706dad41604bee554a9a58db21.jpg"
+                }
+            ]
         },
         {
             "id": 4,
@@ -41,7 +107,25 @@
             ],
             "titulo": "Coragem, o Cão Covarde",
             "descricao": "Coragem, Eustácio e Muriel frequentemente encontram monstros, alienígenas, demônios, cientistas loucos, zumbis e outros perigos que Coragem deve afastar para salvar seus donos, sem o conhecimento deles.",
-            "musica": ""
+            "musica": "",
+            "personagens": [
+                {
+                    "id": 4440,
+                    "nome": "Coragem",
+                    "foto": "https://i.pinimg.com/webp85/736x/63/c1/2b/63c12baf61853ad164684a294b57f6b1.webp"
+                },
+                {
+                    "id": 5550,
+                    "nome": "Muriel",
+                    "foto": "https://i.pinimg.com/736x/ab/8b/c4/ab8bc49ff7d4635739b2711cec6e44f2.jpg"
+                },
+                {
+                    "id": 6660,
+                    "nome": "Eustácio",
+                    "foto": "https://i.pinimg.com/webp85/1200x/7a/a6/37/7aa6370344504abcde8754f3e3b74600.webp"
+
+                }
+            ]
         },
         {
             "id": 5,
@@ -52,7 +136,24 @@
             ],
             "titulo": "As Meninas Super Poderosas",
             "descricao": "Conta a história de três garotas com super poderes: Florzinha, Lindinha e Docinho. Elas foram criadas pelo Professor Utônio, que acidentalmente deixou derrubar o Elemento X na poção da Garotinha Perfeita (uma mistura de açúcar, tempero e tudo o que há de bom).",
-            "musica": ""
+            "musica": "",
+            "personagens": [
+                {
+                    "id": 7770,
+                    "nome": "Lindinha",
+                    "foto": "https://i.pinimg.com/736x/e8/77/56/e87756561061a23c84448a896864d00b.jpg"
+                },
+                {
+                    "id": 8880,
+                    "nome": "Florzinha",
+                    "foto": "https://i.pinimg.com/736x/7f/d1/92/7fd1929c8932186448a0194d18b187f9.jpg"
+                },
+                {
+                    "id": 9990,
+                    "nome": "Docinho",
+                    "foto": "https://i.pinimg.com/736x/e3/9a/03/e39a03558dd4cedd84dc7436a6ca873e.jpg"
+                }
+            ]
         },
         {
             "id": 6,
@@ -63,7 +164,14 @@
             ],
             "titulo": "As Trapalhadas de Flapjack",
             "descricao": "A série conta a história de Flapjack, um menino ingênuo que foi criado por uma baleia chamada Bolha e é orientado por um velho e experiente pirata chamado de Capitão Falange. O trio passa seus dias em Porto Tempestade, local onde a maior parte da série acontece, enquanto eles buscam maneiras de encontrar a Ilha Açúcar.",
-            "musica": ""
+            "musica": "",
+            "personagens": [
+                {
+                    "id": 1111,
+                    "nome": "",
+                    "foto": ""
+                }
+            ]
         },
         {
             "id": 7,
@@ -74,7 +182,24 @@
             ],
             "titulo": "Ben 10",
             "descricao": "Aos 10 anos de idade, Benjamin Kirby Tenyson descobre um dispositivo alienígena na floresta chamado de Omnitrix, que lhe permite se transformar em 10 diferentes espécies alienígenas.",
-            "musica": ""
+            "musica": "",
+            "personagens": [
+                {
+                    "id": 2222,
+                    "nome": "Ben",
+                    "foto": "https://i.pinimg.com/1200x/5e/46/36/5e4636acabe0f0bd1ea6914c43bcddc6.jpg"
+                },
+                {
+                    "id": 3333,
+                    "nome": "Gwen",
+                    "foto": "https://i.pinimg.com/736x/32/a4/e8/32a4e81d24dfe450ea0ff33c818f679c.jpg"
+                },
+                {
+                    "id": 4444,
+                    "nome": "Avô Max",
+                    "foto": "https://i.pinimg.com/webp85/1200x/52/52/39/525239ca40cc74de8330c877c0b92c1a.webp"
+                }
+            ]
         },
         {
             "id": 8,
@@ -85,7 +210,34 @@
             ],
             "titulo": "Os Jovens Titãs",
             "descricao": "Como o nome do grupo indica, os membros são super-heróis adolescentes, muitos dos quais atuaram como parceiros dos principais super-heróis da DC na Liga da Justiça . A equipe original mais tarde passa a ser conhecida como Titãs quando os membros deixam a adolescência, enquanto o nome Jovens Titãs é continuado pelas gerações subsequentes de jovens heróis.",
-            "musica": ""
+            "musica": "",
+            "personagens": [
+                {
+                    "id": 5555,
+                    "nome": "Ravena",
+                    "foto": "https://i.pinimg.com/1200x/83/57/86/83578646176c2f80a89f9488e522091d.jpg"
+                },
+                {
+                    "id": 6666,
+                    "nome": "Mutano",
+                    "foto": "https://i.pinimg.com/webp85/1200x/50/83/65/508365886e314d96cee99978be1cf8dc.webp"
+                },
+                {
+                    "id": 7777,
+                    "nome": "Estelar",
+                    "foto": "https://i.pinimg.com/736x/f6/f9/f6/f6f9f61c84a0467a0a6fe9c17dbc77ff.jpg"
+                },
+                {
+                    "id": 8888,
+                    "nome": "Robin",
+                    "foto": "https://i.pinimg.com/1200x/85/d5/2e/85d52e09a7d37629b30f631c74fb2c20.jpg"
+                },
+                {
+                    "id": 9999,
+                    "nome": "Ciborg",
+                    "foto": "https://i.pinimg.com/1200x/a6/cd/98/a6cd98f12a1163d9ee98482f453a4796.jpg"
+                }
+            ]
         }
     ]
 }
